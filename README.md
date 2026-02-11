@@ -3,6 +3,9 @@ Windows 11 in your Pocket
  ## Download
  You can get the `ipa` to sideload or you can add the TP67 Repo to sideload it with a tool like SideStore or AltStore.
 
+ > [!note]
+>  This is only for simulator devices.
+
  <details>
    <summary>Download first nightly release</summary>
    
