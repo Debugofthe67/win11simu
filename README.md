@@ -1,4 +1,5 @@
 # Windows 11 simu
+Windows 11 in your Pocket
  ## Download
  You can get the `ipa` to sideload or you can add the TP67 Repo to sideload it with a tool like SideStore or AltStore.
 
@@ -13,4 +14,6 @@
 </a>
  </details>
 
+> [!NOTE]
+> I recommend to use the Repo for faster experince
  
